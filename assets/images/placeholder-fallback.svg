@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#171513"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E9D5A8"/>
+      <stop offset="100%" stop-color="#D4B483"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <rect x="40" y="40" width="720" height="920" rx="16" fill="none" stroke="url(#gold)" stroke-opacity="0.25" stroke-width="1.5"/>
+  <circle cx="400" cy="460" r="80" fill="none" stroke="url(#gold)" stroke-opacity="0.3" stroke-width="1.5"/>
+  <text x="400" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="url(#gold)" letter-spacing="4">HE</text>
+  <text x="400" y="590" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#E8DCCB" fill-opacity="0.7" letter-spacing="6">HAIR EXPRESSO SALON</text>
+</svg>
